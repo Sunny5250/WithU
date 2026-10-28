@@ -4,14 +4,14 @@
   <p><strong>在你的桌面，留一小块陪伴的位置。</strong></p>
   <p>聊聊今天，布置小窝，把平凡的一天过得有点可爱。</p>
   <p>
-    <img alt="版本 1.0.0" src="https://img.shields.io/badge/WithU-1.0.0-7b8d86?style=flat-square" />
-    <img alt="macOS Apple Silicon" src="https://img.shields.io/badge/macOS-Apple%20Silicon-555?style=flat-square" />
-    <img alt="Windows x64" src="https://img.shields.io/badge/Windows-x64-555?style=flat-square" />
+    <img alt="版本 1.0.0" src="https://img.shields.io/badge/WithU-1.0.0-2EA44F?style=flat&labelColor=166534&logo=github&logoColor=white" />
+    <img alt="macOS Apple Silicon" src="https://img.shields.io/badge/macOS-Apple%20Silicon-007AFF?style=flat&labelColor=1D4ED8&logo=apple&logoColor=white" />
+    <img alt="Windows x64" src="https://img.shields.io/badge/Windows-x64-7C3AED?style=flat&labelColor=5B21B6" />
   </p>
   <p>
-    <a href="https://github.com/Sunny5250/WithU/releases/latest/download/WithU-1.0.0-macOS-arm64.dmg"><strong>把 WithU 带到 Mac</strong></a>
+    <a href="https://github.com/Sunny5250/WithU/releases/latest/download/WithU-1.0.0-macOS-arm64.dmg"><strong>下载 macOS 版</strong></a>
     &nbsp; · &nbsp;
-    <a href="https://github.com/Sunny5250/WithU/releases/latest/download/WithU-1.0.0-Windows-x64-Setup.exe"><strong>把 WithU 带到 Windows</strong></a>
+    <a href="https://github.com/Sunny5250/WithU/releases/latest/download/WithU-1.0.0-Windows-x64-Setup.exe"><strong>下载 Windows 版</strong></a>
   </p>
 </div>
 
