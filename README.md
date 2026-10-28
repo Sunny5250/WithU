@@ -4,14 +4,14 @@
   <p><strong>在你的桌面，留一小块陪伴的位置。</strong></p>
   <p>聊聊今天，布置小窝，把平凡的一天过得有点可爱。</p>
   <p>
-    <img alt="版本 1.0.0" src="https://img.shields.io/badge/WithU-1.0.0-2EA44F?style=flat&labelColor=555&logo=github&logoColor=white" />
+    <img alt="版本 1.0.1" src="https://img.shields.io/badge/WithU-1.0.1-2EA44F?style=flat&labelColor=555&logo=github&logoColor=white" />
     <img alt="macOS Apple Silicon" src="https://img.shields.io/badge/macOS-Apple%20Silicon-007AFF?style=flat&labelColor=555&logo=apple&logoColor=white" />
     <img alt="Windows x64" src="https://img.shields.io/badge/Windows-x64-7C3AED?style=flat&labelColor=555" />
   </p>
   <p>
-    <a href="https://github.com/Sunny5250/WithU/releases/latest/download/WithU-1.0.0-macOS-arm64.dmg"><strong>下载 macOS 版</strong></a>
+    <a href="https://github.com/Sunny5250/WithU/releases/latest/download/WithU-1.0.1-macOS-arm64.dmg"><strong>下载 macOS 版</strong></a>
     &nbsp; · &nbsp;
-    <a href="https://github.com/Sunny5250/WithU/releases/latest/download/WithU-1.0.0-Windows-x64-Setup.exe"><strong>下载 Windows 版</strong></a>
+    <a href="https://github.com/Sunny5250/WithU/releases/latest/download/WithU-1.0.1-Windows-x64-Setup.exe"><strong>下载 Windows 版</strong></a>
   </p>
 </div>
 
@@ -65,6 +65,6 @@ WithU 会在你专注时安静待着，在你想聊天时接住话题。一个�
 
 <div align="center">
   <p><sub>Mac · macOS 13+ / Apple Silicon　｜　Windows · 10 / 11 / x64</sub></p>
-  <p><a href="https://github.com/Sunny5250/WithU/releases/latest">🎁 与 WithU 初次见面</a></p>
+  <p><a href="https://github.com/Sunny5250/WithU/releases/latest">🎁 查看最新版本</a></p>
   <p><sub>愿你的桌面，多一点恰好的陪伴。</sub></p>
 </div>
