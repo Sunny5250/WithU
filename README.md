@@ -9,9 +9,9 @@
     <img alt="Windows x64" src="https://img.shields.io/badge/Windows-x64-7C3AED?style=flat&labelColor=555" />
   </p>
   <p>
-    <a href="https://github.com/Sunny5250/WithU/releases/download/v2.0.0/WithU-2.0.0-macOS-arm64.dmg"><strong>下载 macOS 版</strong></a> <sub>2.0.0</sub>
+    <a href="https://github.com/Sunny5250/WithU/releases/download/v2.0.0/WithU-2.0.0-macOS-arm64.dmg"><strong>下载 macOS 版</strong></a>
     &nbsp; · &nbsp;
-    <a href="https://github.com/Sunny5250/WithU/releases/download/v1.0.1/WithU-1.0.1-Windows-x64-Setup.exe"><strong>下载 Windows 版</strong></a> <sub>1.0.1</sub>
+    <a href="https://github.com/Sunny5250/WithU/releases/download/v1.0.1/WithU-1.0.1-Windows-x64-Setup.exe"><strong>下载 Windows 版</strong></a>
   </p>
 </div>
 
