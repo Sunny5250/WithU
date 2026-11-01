@@ -4,14 +4,14 @@
   <p><strong>在你的桌面，留一小块陪伴的位置。</strong></p>
   <p>聊聊今天，布置小窝，把平凡的一天过得有点可爱。</p>
   <p>
-    <img alt="版本 1.0.1" src="https://img.shields.io/badge/WithU-1.0.1-2EA44F?style=flat&labelColor=555&logo=github&logoColor=white" />
+    <img alt="版本 2.0.0" src="https://img.shields.io/badge/WithU-2.0.0-2EA44F?style=flat&labelColor=555&logo=github&logoColor=white" />
     <img alt="macOS Apple Silicon" src="https://img.shields.io/badge/macOS-Apple%20Silicon-007AFF?style=flat&labelColor=555&logo=apple&logoColor=white" />
-    <img alt="Windows x64" src="https://img.shields.io/badge/Windows-x64-7C3AED?style=flat&labelColor=555" />
+    <img alt="Windows Coming soon" src="https://img.shields.io/badge/Windows-Coming%20soon-7C3AED?style=flat&labelColor=555" />
   </p>
   <p>
-    <a href="https://github.com/Sunny5250/WithU/releases/latest/download/WithU-1.0.1-macOS-arm64.dmg"><strong>下载 macOS 版</strong></a>
+    <a href="https://github.com/Sunny5250/WithU/releases/download/v2.0.0/WithU-2.0.0-macOS-arm64.dmg"><strong>下载 macOS 版</strong></a>
     &nbsp; · &nbsp;
-    <a href="https://github.com/Sunny5250/WithU/releases/latest/download/WithU-1.0.1-Windows-x64-Setup.exe"><strong>下载 Windows 版</strong></a>
+    <strong>Windows · Coming soon</strong>
   </p>
 </div>
 
@@ -53,18 +53,18 @@ WithU 会在你专注时安静待着，在你想聊天时接住话题。一个�
 
 需要收心的时候，就一起开始一段专注。那些容易忘的小事，也可以交给提醒来记着。
 
-## 🎉 初次见面，WithU 1.0.0
+## 🎉 原生相伴，WithU 2.0.0
 
-这是 WithU 的第一站，来到 Mac 和 Windows 的桌面。
+熟悉的小伙伴，住进了新的 Mac 界面。随系统变换的 Liquid Glass、轻快的切换动效、收起后只留下图标的侧边栏，让陪伴更自然地融入桌面。
 
-两端都支持在线更新，也可以开启自动下载，等新版本准备好后再提醒你安装。小伙伴还会继续长大，下一次见面，就在应用里。
+Mac 版支持在线更新，也可以开启自动下载，等新版本准备好后再提醒你安装。Windows 原生版 Coming soon，我们正在为它准备好下一次见面。
 
 ---
 
-**关于连接与资料** · AI 聊天使用已有的 ChatGPT 订阅授权。聊天、记忆与房间资料保存在本机，可通过备份在两端手动迁移；你分享的内容会随相关 AI 请求发送给服务提供方。截图由你预览确认后分享。
+**关于连接与资料** · AI 聊天使用已有的 ChatGPT 订阅授权。聊天、记忆与房间资料保存在本机。2.0 支持导入 1.x 备份，2.0 的新备份格式不再由 1.x 读取；你分享的内容会随相关 AI 请求发送给服务提供方。截图由你预览确认后分享。
 
 <div align="center">
-  <p><sub>Mac · macOS 13+ / Apple Silicon　｜　Windows · 10 / 11 / x64</sub></p>
+  <p><sub>Mac · macOS 13+ / Apple Silicon　｜　Windows 原生版 · Coming soon</sub></p>
   <p><a href="https://github.com/Sunny5250/WithU/releases/latest">🎁 查看最新版本</a></p>
   <p><sub>愿你的桌面，多一点恰好的陪伴。</sub></p>
 </div>
