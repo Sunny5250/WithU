@@ -15,6 +15,8 @@
   </p>
 </div>
 
+> **macOS 首次打开**：当前安装包尚未经过 Apple 公证，首次启动可能出现“Apple 无法验证”的提示。请先核对下载来源和文件摘要，再根据自己的信任决定是否[手动批准打开](https://github.com/Sunny5250/WithU/blob/main/docs/macos-first-open.md)。
+
 <br />
 
 ![WithU 的小房间](assets/room.png)
