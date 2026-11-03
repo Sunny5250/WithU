@@ -4,14 +4,14 @@
   <p><strong>在你的桌面，留一小块陪伴的位置。</strong></p>
   <p>聊聊今天，布置小窝，忙的时候安静陪着你。</p>
   <p>
-    <img alt="版本 2.0.0" src="https://img.shields.io/badge/WithU-2.0.0-2EA44F?style=flat&labelColor=555&logo=github&logoColor=white" />
+    <img alt="macOS 版本 2.1.0" src="https://img.shields.io/badge/WithU-2.1.0-2EA44F?style=flat&labelColor=555&logo=github&logoColor=white" />
     <img alt="macOS Apple Silicon" src="https://img.shields.io/badge/macOS-Apple%20Silicon-007AFF?style=flat&labelColor=555&logo=apple&logoColor=white" />
     <img alt="Windows x64" src="https://img.shields.io/badge/Windows-x64-7C3AED?style=flat&labelColor=555" />
   </p>
   <p>
-    <a href="https://github.com/Sunny5250/WithU/releases/download/v2.0.0/WithU-2.0.0-macOS-arm64.dmg"><strong>下载 macOS 版</strong></a>
+    <a href="https://github.com/Sunny5250/WithU/releases/download/v2.1.0/WithU-2.1.0-macOS-arm64.dmg"><strong>下载 macOS 2.1.0</strong></a>
     &nbsp; · &nbsp;
-    <a href="https://github.com/Sunny5250/WithU/releases/download/v2.0.0/WithU-2.0.0-Windows-x64-Setup.exe"><strong>下载 Windows 版</strong></a>
+    <a href="https://github.com/Sunny5250/WithU/releases/download/v2.0.0/WithU-2.0.0-Windows-x64-Setup.exe"><strong>下载 Windows 2.0.0</strong></a>
   </p>
 </div>
 
@@ -20,6 +20,14 @@
 <br />
 
 ![WithU 的小房间](assets/room.png)
+
+## macOS 2.1.0 更新
+
+Mac 版新增 OpenAI API、DeepSeek API 连接，文字、图片和表情按出现顺序展示。表情支持多来源实时搜索与随机单张回复，桌宠主动表情概率可在设置中调节（0–100%）。
+
+桌宠可以更贴近屏幕边缘，双击聊天不再挪动角色；中文拼音未选字时不再与输入提示重叠。侧栏头像、滑轨对齐和桌面启动提示也做了修整。这一版移除打扮功能，保留原版形象及已有相处资料的兼容读取。
+
+[查看 macOS 2.1.0 发布说明](https://github.com/Sunny5250/WithU/releases/tag/v2.1.0)。Windows 当前正式版为2.0.0，本次 Mac 更新不改变 Windows 下载。
 
 ## 👋 今天，也一起慢慢来
 
@@ -63,7 +71,7 @@ WithU 2.0.0 为 Mac 带来了原生 Liquid Glass，也为 Windows 更新了仿 L
 
 ---
 
-**连接与资料** · AI 聊天使用已有的 ChatGPT 订阅。聊天、记忆和房间资料保存在本机；你分享的内容会随相关 AI 请求发送给服务提供方。截图由你预览确认后分享。
+**连接与资料** · AI 聊天可使用已有的 ChatGPT 订阅；macOS 2.1.0 还可选择 OpenAI API 或 DeepSeek API。聊天、记忆和房间资料保存在本机；你分享的内容会随相关 AI 请求发送给服务提供方。截图由你预览确认后分享。
 
 <sub>备份互通：2.0.0 版本应用可导入旧版备份；但 2.0.0 版本应用的新备份不能回导到 1.0.1。</sub>
 
