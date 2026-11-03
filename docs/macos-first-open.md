@@ -1,12 +1,10 @@
 # macOS 首次打开 WithU
 
-适用于 GitHub v2.0.0 的 Apple Silicon 安装包。**当前版本尚未经过 Apple 公证**，首次打开时可能被 macOS 拦截。是否批准运行，请由你在确认来源和文件完整性后决定。
+适用于 Apple Silicon 安装包。**当前版本尚未经过 Apple 公证**，首次打开时可能被 macOS 拦截。是否批准运行，请由你在确认来源和文件完整性后决定。
 
 ## 先核对下载来源与文件
 
-从 [WithU 官方 GitHub 发布页](https://github.com/Sunny5250/WithU/releases/tag/v2.0.0)下载 `WithU-2.0.0-macOS-arm64.dmg`。
-
-文件校验信息统一放在 [2.0.0 发布页](https://github.com/Sunny5250/WithU/releases/tag/v2.0.0)。
+从 [WithU 官方 GitHub 发布页](https://github.com/Sunny5250/WithU/releases)下载 `WithU-x.x.x-macOS-arm64.dmg`。
 
 ## 由你手动批准打开
 
