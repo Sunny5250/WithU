@@ -4,14 +4,14 @@
   <p><strong>在你的桌面，留一小块陪伴的位置。</strong></p>
   <p>聊聊今天，布置小窝，忙的时候安静陪着你。</p>
   <p>
-    <img alt="macOS 版本 2.1.0" src="https://img.shields.io/badge/WithU-2.1.0-2EA44F?style=flat&labelColor=555&logo=github&logoColor=white" />
+    <img alt="版本 2.1.0" src="https://img.shields.io/badge/WithU-2.1.0-2EA44F?style=flat&labelColor=555&logo=github&logoColor=white" />
     <img alt="macOS Apple Silicon" src="https://img.shields.io/badge/macOS-Apple%20Silicon-007AFF?style=flat&labelColor=555&logo=apple&logoColor=white" />
     <img alt="Windows x64" src="https://img.shields.io/badge/Windows-x64-7C3AED?style=flat&labelColor=555" />
   </p>
   <p>
     <a href="https://github.com/Sunny5250/WithU/releases/download/v2.1.0/WithU-2.1.0-macOS-arm64.dmg"><strong>下载 macOS 2.1.0</strong></a>
     &nbsp; · &nbsp;
-    <a href="https://github.com/Sunny5250/WithU/releases/download/v2.0.0/WithU-2.0.0-Windows-x64-Setup.exe"><strong>下载 Windows 2.0.0</strong></a>
+    <a href="https://github.com/Sunny5250/WithU/releases/download/v2.1.0/WithU-2.1.0-Windows-x64-Setup.exe"><strong>下载 Windows 2.1.0</strong></a>
   </p>
 </div>
 
@@ -63,7 +63,7 @@ WithU 2.0.0 为 Mac 带来了原生 Liquid Glass，也为 Windows 更新了仿 L
 
 ---
 
-**连接与资料** · AI 聊天可使用已有的 ChatGPT 订阅；macOS 2.1.0 还可选择 OpenAI API 或 DeepSeek API。聊天、记忆和房间资料保存在本机；你分享的内容会随相关 AI 请求发送给服务提供方。截图由你预览确认后分享。
+**连接与资料** · AI 聊天可使用已有的 ChatGPT 订阅，也可选择 OpenAI API 或 DeepSeek API。聊天、记忆和房间资料保存在本机；你分享的内容会随相关 AI 请求发送给服务提供方。截图由你预览确认后分享。
 
 <sub>备份互通：2.0.0 版本应用可导入旧版备份；但 2.0.0 版本应用的新备份不能回导到 1.0.1。</sub>
 
