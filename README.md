@@ -11,7 +11,7 @@
   <p>
     <a href="https://github.com/Sunny5250/WithU/releases/download/v2.0.0/WithU-2.0.0-macOS-arm64.dmg"><strong>下载 macOS 版</strong></a>
     &nbsp; · &nbsp;
-    <a href="https://github.com/Sunny5250/WithU/releases/download/v1.0.1/WithU-1.0.1-Windows-x64-Setup.exe"><strong>下载 Windows 版</strong></a>
+    <a href="https://github.com/Sunny5250/WithU/releases/download/v2.0.0/WithU-2.0.0-Windows-x64-Setup.exe"><strong>下载 Windows 版</strong></a>
   </p>
 </div>
 
@@ -57,15 +57,17 @@
 
 ## ✨ Liquid Glass，轻盈的新模样
 
-WithU 2.0.0 为 Mac 带来了 Liquid Glass。通透的层次、柔和的光影，以及切换时自然流动、轻轻回弹的玻璃选中框，让熟悉的陪伴多了一点灵动。玻璃质感跟随系统外观，也可以在设置中关闭。
+WithU 2.0.0 为 Mac 带来了 Liquid Glass，也为 Windows 更新了原生玻璃界面。通透的层次、柔和的光影，以及切换时自然流动、轻轻回弹的玻璃选中框，让熟悉的陪伴多了一点灵动。玻璃质感跟随系统外观，也可以在设置中关闭。
 
 布局、聊天和桌宠互动也一并打磨，让日常使用更顺手。
+
+Windows 2.0.0（build152）现已上线。聊天助手的封面回到页面中央，侧栏与最近对话一起滚动，展开和收起也继续保持整齐。安装前请先从托盘退出旧版；聊天、记忆和设置会保留。
 
 ---
 
 **连接与资料** · AI 聊天使用已有的 ChatGPT 订阅。聊天、记忆和房间资料保存在本机；你分享的内容会随相关 AI 请求发送给服务提供方。截图由你预览确认后分享。
 
-<sub>备份互通：Mac 2.0 可导入旧版备份；Mac 2.0 的新备份暂时不能在 Windows 1.0.1 中打开。</sub>
+<sub>备份互通：Mac 2.0 可导入旧版备份；2.0 的新备份不能回导到 Windows 1.0.1。</sub>
 
 <div align="center">
   <p><sub>Mac · macOS 13+ / Apple Silicon　｜　Windows · 10 / 11 / x64</sub></p>
