@@ -4,12 +4,12 @@
   <p><strong>在你的桌面，留一小块陪伴的位置。</strong></p>
   <p>聊聊今天，布置小窝，忙的时候安静陪着你。</p>
   <p>
-    <img alt="版本 2.1.0" src="https://img.shields.io/badge/WithU-2.1.0-2EA44F?style=flat&labelColor=555&logo=github&logoColor=white" />
+    <img alt="macOS 版本 2.1.1" src="https://img.shields.io/badge/WithU-2.1.1-2EA44F?style=flat&labelColor=555&logo=github&logoColor=white" />
     <img alt="macOS Apple Silicon" src="https://img.shields.io/badge/macOS-Apple%20Silicon-007AFF?style=flat&labelColor=555&logo=apple&logoColor=white" />
     <img alt="Windows x64" src="https://img.shields.io/badge/Windows-x64-7C3AED?style=flat&labelColor=555" />
   </p>
   <p>
-    <a href="https://github.com/Sunny5250/WithU/releases/download/v2.1.0/WithU-2.1.0-macOS-arm64.dmg"><strong>下载 macOS 2.1.0</strong></a>
+    <a href="https://github.com/Sunny5250/WithU/releases/download/v2.1.1/WithU-2.1.1-macOS-arm64.dmg"><strong>下载 macOS 2.1.1</strong></a>
     &nbsp; · &nbsp;
     <a href="https://github.com/Sunny5250/WithU/releases/download/v2.1.0/WithU-2.1.0-Windows-x64-Setup.exe"><strong>下载 Windows 2.1.0</strong></a>
   </p>
@@ -20,6 +20,12 @@
 <br />
 
 ![WithU 的小房间](assets/room.png)
+
+## macOS 2.1.1 更新
+
+修复在设置中保存伙伴名字后，聊天仍自称旧名字的问题。普通聊天、桌宠聊天和主动关怀使用当前设置中的名字，已有聊天与相处资料继续保留。
+
+[查看 macOS 2.1.1 发布说明](https://github.com/Sunny5250/WithU/releases/tag/v2.1.1)。Windows 当前正式版为 2.1.0，2.1.1 正在同步。
 
 ## 👋 今天，也一起慢慢来
 
