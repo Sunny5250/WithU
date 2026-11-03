@@ -6,19 +6,7 @@
 
 从 [WithU 官方 GitHub 发布页](https://github.com/Sunny5250/WithU/releases/tag/v2.0.0)下载 `WithU-2.0.0-macOS-arm64.dmg`。
 
-需要检查文件完整性时，在安装包所在目录打开终端，执行：
-
-```sh
-shasum -a 256 "WithU-2.0.0-macOS-arm64.dmg"
-```
-
-本次发布包的 SHA-256 为：
-
-```text
-d4a31ae4d77dd69e82d936e3a247ddcecf57e8fe473b6ebe5cf7f7490d891f17
-```
-
-摘要一致表示文件与本次发布包的字节一致，不代表通过了 Apple 公证或恶意软件检查。若摘要不同，请停止安装并从上述发布页重新下载。
+文件校验信息统一放在 [2.0.0 发布页](https://github.com/Sunny5250/WithU/releases/tag/v2.0.0)。
 
 ## 由你手动批准打开
 
