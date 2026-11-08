@@ -4,28 +4,28 @@
   <p><strong>在你的桌面，留一小块陪伴的位置。</strong></p>
   <p>聊聊今天，布置小窝，忙的时候安静陪着你。</p>
   <p>
-    <img alt="macOS 版本 2.2.0" src="https://img.shields.io/badge/WithU-2.2.0-2EA44F?style=flat&labelColor=555&logo=github&logoColor=white" />
+    <img alt="macOS 版本 2.2.1" src="https://img.shields.io/badge/WithU-2.2.1-2EA44F?style=flat&labelColor=555&logo=github&logoColor=white" />
     <img alt="macOS Apple Silicon" src="https://img.shields.io/badge/macOS-Apple%20Silicon-007AFF?style=flat&labelColor=555&logo=apple&logoColor=white" />
     <img alt="Windows x64" src="https://img.shields.io/badge/Windows-x64-7C3AED?style=flat&labelColor=555" />
   </p>
   <p>
-    <a href="https://github.com/Sunny5250/WithU/releases/download/v2.2.0/WithU-2.2.0-macOS-arm64.dmg"><strong>下载 macOS 2.2.0</strong></a>
+    <a href="https://github.com/Sunny5250/WithU/releases/download/v2.2.1/WithU-2.2.1-macOS-arm64.dmg"><strong>下载 macOS 2.2.1</strong></a>
     &nbsp; · &nbsp;
-    <a href="https://github.com/Sunny5250/WithU/releases/download/v2.1.2/WithU-2.1.2-Windows-x64-Setup.exe"><strong>下载 Windows 2.1.2</strong></a>
+    <a href="https://github.com/Sunny5250/WithU/releases/download/v2.2.0/WithU-2.2.0-Windows-x64-Setup.exe"><strong>下载 Windows 2.2.0</strong></a>
   </p>
 </div>
 
-> **macOS 首次打开**：当前安装包尚未经过 Apple 公证，首次启动可能出现“Apple 无法验证”的提示。请先核对下载来源和文件摘要，再根据自己的信任决定是否[手动批准打开](https://github.com/Sunny5250/WithU/blob/main/docs/macos-first-open.md)。
+> **macOS 首次打开**：当前安装包尚未经过 Apple 公证，首次启动可能出现“Apple 无法验证”的提示。请确认下载来自本仓库，再根据自己的信任决定是否[手动批准打开](https://github.com/Sunny5250/WithU/blob/main/docs/macos-first-open.md)。
 
 <br />
 
 ![WithU 的小房间](assets/room.png)
 
-## macOS 2.2.0 更新
+## macOS 2.2.1 更新
 
-主要入口整理为“对话、任务、记忆、互动”。新增按需联网、Bing 机票展示报价查询和“帮我盯着”关注任务；主动闲聊与近期趣事的比例可以调节，低状态时伙伴会自己吃饭和小憩。来源收进气泡内，未读角标、导航与日常互动布局同步完善。
+修复侧边栏玻璃动画卡顿及顶部导航切换时动效消失的问题，统一导航的点击与移动反馈。
 
-[查看 macOS 2.2.0 发布说明](https://github.com/Sunny5250/WithU/releases/tag/v2.2.0)。Windows 当前正式版为 2.1.2，2.2.0：coming soon。
+[查看 macOS 2.2.1 发布说明](https://github.com/Sunny5250/WithU/releases/tag/v2.2.1)。Windows 当前正式版为 [2.2.0](https://github.com/Sunny5250/WithU/releases/tag/v2.2.0)，2.2.1：coming soon。
 
 ## 👋 今天，也一起慢慢来
 
