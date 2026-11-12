@@ -11,7 +11,7 @@
   <p>
     <a href="https://github.com/Sunny5250/WithU/releases/download/v2.2.1/WithU-2.2.1-macOS-arm64.dmg"><strong>下载 macOS 2.2.1</strong></a>
     &nbsp; · &nbsp;
-    <a href="https://github.com/Sunny5250/WithU/releases/download/v2.2.0/WithU-2.2.0-Windows-x64-Setup.exe"><strong>下载 Windows 2.2.0</strong></a>
+    <a href="https://github.com/Sunny5250/WithU/releases/download/v2.2.1/WithU-2.2.1-Windows-x64-Setup.exe"><strong>下载 Windows 2.2.1</strong></a>
   </p>
 </div>
 
@@ -25,7 +25,7 @@
 
 支持分别更换 ChatGPT 账号与工作区，取消或授权失败时保留原连接；通用设置布局更紧凑，底部模块横向等高并对齐。
 
-[查看 macOS 2.2.1 发布说明](https://github.com/Sunny5250/WithU/releases/tag/v2.2.1)。Windows 当前正式版为 [2.2.0](https://github.com/Sunny5250/WithU/releases/tag/v2.2.0)，2.2.1：coming soon。
+[查看 macOS 2.2.1 发布说明](https://github.com/Sunny5250/WithU/releases/tag/v2.2.1)。Windows 2.2.1 现已提供；[Windows 2.2.0 历史下载](https://github.com/Sunny5250/WithU/releases/download/v2.2.0/WithU-2.2.0-Windows-x64-Setup.exe) 保留。Windows 沿用手动下载覆盖安装，自动更新清单暂未提供。
 
 ## 👋 今天，也一起慢慢来
 
