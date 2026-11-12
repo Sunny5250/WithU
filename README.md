@@ -4,12 +4,12 @@
   <p><strong>在你的桌面，留一小块陪伴的位置。</strong></p>
   <p>聊聊今天，布置小窝，忙的时候安静陪着你。</p>
   <p>
-    <img alt="macOS 版本 2.2.1" src="https://img.shields.io/badge/WithU-2.2.1-2EA44F?style=flat&labelColor=555&logo=github&logoColor=white" />
+    <img alt="macOS 版本 2.2.2" src="https://img.shields.io/badge/WithU-2.2.2-2EA44F?style=flat&labelColor=555&logo=github&logoColor=white" />
     <img alt="macOS Apple Silicon" src="https://img.shields.io/badge/macOS-Apple%20Silicon-007AFF?style=flat&labelColor=555&logo=apple&logoColor=white" />
     <img alt="Windows x64" src="https://img.shields.io/badge/Windows-x64-7C3AED?style=flat&labelColor=555" />
   </p>
   <p>
-    <a href="https://github.com/Sunny5250/WithU/releases/download/v2.2.1/WithU-2.2.1-macOS-arm64.dmg"><strong>下载 macOS 2.2.1</strong></a>
+    <a href="https://github.com/Sunny5250/WithU/releases/download/v2.2.2/WithU-2.2.2-macOS-arm64.dmg"><strong>下载 macOS 2.2.2</strong></a>
     &nbsp; · &nbsp;
     <a href="https://github.com/Sunny5250/WithU/releases/download/v2.2.1/WithU-2.2.1-Windows-x64-Setup.exe"><strong>下载 Windows 2.2.1</strong></a>
   </p>
@@ -21,11 +21,11 @@
 
 ![WithU 的小房间](assets/room.png)
 
-## macOS 2.2.1 更新
+## macOS 2.2.2 更新
 
-支持分别更换 ChatGPT 账号与工作区，取消或授权失败时保留原连接；通用设置布局更紧凑，底部模块横向等高并对齐。
+天气支持当前位置与保存城市的切换、删除和排序，中文及拼音搜索显示正式中文地名；优化天气卡片、固定顶部导航，并改善深色主题下亮背景的可读性。
 
-[查看 macOS 2.2.1 发布说明](https://github.com/Sunny5250/WithU/releases/tag/v2.2.1)。Windows 2.2.1 现已提供；[Windows 2.2.0 历史下载](https://github.com/Sunny5250/WithU/releases/download/v2.2.0/WithU-2.2.0-Windows-x64-Setup.exe) 保留。Windows 沿用手动下载覆盖安装，自动更新清单暂未提供。
+[查看 macOS 2.2.2 发布说明](https://github.com/Sunny5250/WithU/releases/tag/v2.2.2)。Windows 2.2.1 现已提供；[Windows 2.2.0 历史下载](https://github.com/Sunny5250/WithU/releases/download/v2.2.0/WithU-2.2.0-Windows-x64-Setup.exe) 保留。Windows 沿用手动下载覆盖安装，自动更新清单暂未提供。
 
 ## 👋 今天，也一起慢慢来
 
