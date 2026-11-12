@@ -11,7 +11,7 @@
   <p>
     <a href="https://github.com/Sunny5250/WithU/releases/download/v2.2.2/WithU-2.2.2-macOS-arm64.dmg"><strong>下载 macOS 2.2.2</strong></a>
     &nbsp; · &nbsp;
-    <a href="https://github.com/Sunny5250/WithU/releases/download/v2.2.1/WithU-2.2.1-Windows-x64-Setup.exe"><strong>下载 Windows 2.2.1</strong></a>
+    <a href="https://github.com/Sunny5250/WithU/releases/download/v2.2.2/WithU-2.2.2-Windows-x64-Setup.exe"><strong>下载 Windows 2.2.2</strong></a>
   </p>
 </div>
 
@@ -21,11 +21,9 @@
 
 ![WithU 的小房间](assets/room.png)
 
-## macOS 2.2.2 更新
+## 2.2.2 更新
 
 天气支持当前位置与保存城市的切换、删除和排序，中文及拼音搜索显示正式中文地名；优化天气卡片、固定顶部导航，并改善深色主题下亮背景的可读性。
-
-[查看 macOS 2.2.2 发布说明](https://github.com/Sunny5250/WithU/releases/tag/v2.2.2)。Windows 2.2.1 现已提供；[Windows 2.2.0 历史下载](https://github.com/Sunny5250/WithU/releases/download/v2.2.0/WithU-2.2.0-Windows-x64-Setup.exe) 保留。Windows 沿用手动下载覆盖安装，自动更新清单暂未提供。
 
 ## 👋 今天，也一起慢慢来
 
