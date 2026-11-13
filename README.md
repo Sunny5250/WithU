@@ -4,12 +4,12 @@
   <p><strong>在你的桌面，留一小块陪伴的位置。</strong></p>
   <p>聊聊今天，布置小窝，忙的时候安静陪着你。</p>
   <p>
-    <img alt="macOS 版本 2.2.2" src="https://img.shields.io/badge/WithU-2.2.2-2EA44F?style=flat&labelColor=555&logo=github&logoColor=white" />
+    <img alt="macOS 版本 2.3.0" src="https://img.shields.io/badge/WithU-2.3.0-2EA44F?style=flat&labelColor=555&logo=github&logoColor=white" />
     <img alt="macOS Apple Silicon" src="https://img.shields.io/badge/macOS-Apple%20Silicon-007AFF?style=flat&labelColor=555&logo=apple&logoColor=white" />
     <img alt="Windows x64" src="https://img.shields.io/badge/Windows-x64-7C3AED?style=flat&labelColor=555" />
   </p>
   <p>
-    <a href="https://github.com/Sunny5250/WithU/releases/download/v2.2.2/WithU-2.2.2-macOS-arm64.dmg"><strong>下载 macOS 2.2.2</strong></a>
+    <a href="https://github.com/Sunny5250/WithU/releases/download/v2.3.0/WithU-2.3.0-macOS-arm64.dmg"><strong>下载 macOS 2.3.0</strong></a>
     &nbsp; · &nbsp;
     <a href="https://github.com/Sunny5250/WithU/releases/download/v2.2.2/WithU-2.2.2-Windows-x64-Setup.exe"><strong>下载 Windows 2.2.2</strong></a>
   </p>
@@ -21,9 +21,11 @@
 
 ![WithU 的小房间](assets/room.png)
 
-## 2.2.2 更新
+## macOS 2.3.0 更新
 
-天气支持当前位置与保存城市的切换、删除和排序，中文及拼音搜索显示正式中文地名；优化天气卡片、固定顶部导航，并改善深色主题下亮背景的可读性。
+新增对话内搜索、定期本地备份与存储空间管理；改善天气失败重试和上次有效天气展示，支持更新下载续传，并减少长对话与角色素材的重复处理。
+
+[查看 macOS 2.3.0 发布说明](https://github.com/Sunny5250/WithU/releases/tag/v2.3.0)。Windows 2.3.0 稍后提供，当前可下载 [Windows 2.2.2](https://github.com/Sunny5250/WithU/releases/download/v2.2.2/WithU-2.2.2-Windows-x64-Setup.exe)。
 
 ## 👋 今天，也一起慢慢来
 
